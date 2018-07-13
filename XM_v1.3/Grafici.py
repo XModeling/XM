@@ -342,7 +342,7 @@ def highlight_cluster(percorsoD, percorsoS, numerocl, usedV):
         ax3.set_title("SU: {0:.3f}".format(float(su[pos])))
         #ax3.set_xlim(xmin=-100)
         ax3 = plt.gca()
-        if used_variables[i-3]==1:
+        if used_variables[i-2]==1:
             print 
             ax3.set_facecolor('#c7fdb5')
         else:
