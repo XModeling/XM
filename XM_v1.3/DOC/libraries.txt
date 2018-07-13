@@ -1,0 +1,5 @@
+- To install gsl run: "sudo apt-get install libgsl0-dev"
+- To install lblas run: "sudo apt-get install libblas-dev liblapack-dev"
+- To install pandastable run: "pip install pandastable"
+- To install pyitlib run: "pip install pyitlib"
+- To install xkcd run: "pip install xkcd"
