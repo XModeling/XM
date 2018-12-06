@@ -1,0 +1,27 @@
+Parameter,Values
+Dataset_Path,/home/francesco/Tirocinio/XM_v1.3.5/DATASETS/Pearsons/dataset_pearson.csv
+Results_Path,/home/francesco/Tirocinio/XM_v1.3.5/RESULTS/Parsons/SubCMedians
+Number_of_columns,3
+Number_of_rows,400
+Method,SubCMedians
+NbExpCluster,4
+SDmax,12
+N,100
+NbIter,480
+Accuracy,0.625
+CE,0.4575
+F1,0.6151411387928287
+Entropy,0.48868672696307225
+Purity,0.6387978398485907
+NbClusterFound,7
+Note,-
+Variables,a,b,c
+SAE,1.06151395704
+Silhouette total,0.165123418012
+0.374,0.269,49,2
+-0.066,0.284,87,1
+0.382,0.258,47,2
+-0.106,0.152,72,1
+0.411,0.404,46,2
+0.575,0.420,17,1
+0.176,0.176,82,3

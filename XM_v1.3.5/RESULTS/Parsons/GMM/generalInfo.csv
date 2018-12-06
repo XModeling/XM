@@ -1,0 +1,22 @@
+Parameter,Values
+Dataset Path,/home/francesco/Tirocinio/XM_v1.3.5/DATASETS/Pearsons/dataset_pearson.csv
+Results Path,/home/francesco/Tirocinio/XM_v1.3.5/RESULTS/Parsons/GMM
+Number of columns,3
+Number of rows,400
+Method,GMM
+N. Cluster,4
+Covariance,diag
+Accuracy,0.995
+CE,0.995
+F1,0.9949994998741276
+Entropy,0.982247792619771
+Purity,0.9950980392156863
+NbClusterFound,4
+Note,-
+Variables,a,b,c
+Log-likelihood,-2.49017438798
+Silhouette total,0.19692768586
+0.173,102,3
+0.217,98,3
+0.205,100,3
+0.193,100,3

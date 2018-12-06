@@ -1,0 +1,21 @@
+Parameter,Values
+Dataset Path,/home/francesco/Tirocinio/XM_v1.3.5/DATASETS/Pearsons/dataset_pearson.csv
+Results Path,/home/francesco/Tirocinio/XM_v1.3.5/RESULTS/Parsons/K-Means
+Number of columns,3
+Number of rows,400
+Method,K-Means
+N. Cluster,4
+Accuracy,0.485
+CE,0.475
+F1,0.32352384869943285
+Entropy,0.3591248640522642
+Purity,0.49203119148771324
+NbClusterFound,4
+Note,-
+Variables,a,b,c
+SSE,2.91e+02
+Silhouette total,0.296487601574
+0.333,74,3
+0.281,120,3
+0.282,115,3
+0.305,91,3
