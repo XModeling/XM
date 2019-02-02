@@ -1,0 +1,38 @@
+Parameter,Values
+Dataset Path,/home/francesco/Tirocinio/XM_v1.3.5/DATASETS/Test6/ALL_h_std_interestingVars.csv
+Results Path,/home/francesco/Tirocinio/XM_v1.3.5/RESULTS/INTCATCH/GMM
+Number of columns,27
+Number of rows,20181
+Method,GMM
+N. Cluster,20
+Covariance,full
+Accuracy,NA
+CE,NA
+F1,NA
+Entropy,NA
+Purity,NA
+NbClusterFound,20
+Note,-
+Variables,speed,voltage,m0_current,m1_current,acceleration,mean_speed,mean_acceleration,mean_m0,mean_m1,mean_volt,std_ec,std_do,std_temp,std_speed,std_acceleration,std_m0,std_m1,std_heading,std_volt,speed_d,ec_d,do_d,voltage_d,m0_current_d,m1_current_d,heading_d,acceleration_d
+Log-likelihood,26.5824999078
+Silhouette total,-0.0817864594727
+-0.201,601,27
+-0.016,3093,27
+-0.209,2437,27
+0.184,652,27
+-0.155,562,27
+0.566,33,27
+-0.092,561,27
+-0.239,985,27
+0.524,30,27
+-0.022,1332,27
+-0.012,4898,27
+-0.190,838,27
+-0.239,226,27
+-0.176,1082,27
+-0.166,742,27
+-0.018,872,27
+-0.217,58,27
+0.029,443,27
+-0.150,611,27
+-0.224,125,27

@@ -1,0 +1,238 @@
+=======
+CHANGES
+=======
+
+------
+0.11.0
+------
+
+Added find/replace dialog
+Moved redundant options from 3D panel
+Can now plot 3D using check button
+Grouped scatter plots in 3D
+Removed redundant data in saving of plot options in projects
+Recent project items in menu
+Dropdown entry menu for categorical columns
+Crosstab function
+Radviz plot
+Improved multi-index column display
+
+------
+0.10.0
+------
+
+Fix to dropping index when no name
+Added dotplot
+Added axis tick and tick label format options
+Added plotting animation dialog
+Added ability to label points in scatter plots using a column
+Added ability to set point sizes with data column
+Fix to plot frame closing bug
+Added empty column selection for groupby option
+Fixes to copy/paste and saving projects in snap
+Long column names now wrapped in plots
+Can now wrap column header text
+Fix to column resizing
+
+------
+0.9.0
+------
+
+Row/col options for sample data
+Fixed scrolling up/down and right/left for arrow keys
+Re-did aggregate dialog to be more general
+Resample/transform functions for columns
+Added find duplicates dialog
+Zoom in/out functions to view menu
+Improved grid layout dialog
+Ability to auto create multiviews/split data in grid
+Removed TkAgg toolbar (deprecated)
+Fixed bug for slow row selection in large tables
+Fixed slow loading of large tables
+
+------
+0.8.3
+------
+
+Index header fixes
+Cell color by mask added
+Set color by value added
+Can now set per column alignment
+Snap now works
+Fix to deleterows
+Added move/copy column to menu
+Can open excel files from cmd line
+More options for heatmap
+
+------
+0.8.2
+------
+
+Fixed setup.py error that stopped pip install
+Added column coloring functionality
+Fixed slow adding of multiple rows
+Fix to display row numbers properly for large tables
+
+------
+0.8.1
+------
+
+Added table operations to main menu
+Added time series resample (table menu)
+Can now undo last change for most operations
+Differential expression plugin
+Element-wise transform menu item
+Added aggfunc to pivot dialog
+Filtering tool highlights filtered rows by default
+Added predefined widget filters to filtering dialog
+Fixed slow drawing of large tables
+
+------
+0.8.0
+------
+
+Added datetime conversion dialog
+Changes to make more compatible with matplotlib 2.0
+Can now plot grouped single plots for some plot types (line, bar, scatter)
+Fixed sharey, sharex for grouped plots
+Added ability to choose pre-defined mpl styles
+Fix to memory leak on redraws
+Changes to right click copy behaviour
+Fix for displaying small floats
+Added floating precision to table preferences
+Clipboard bug fix
+Improvement to merge dialog
+Fixes to widget styling issues on linux
+Added duplicate column removal in clean data
+
+------
+0.7.2
+------
+
+Added black and white option for plotting
+Fix to avoid white lines with some colormaps
+Can now add text annotations to plots
+Most plot options are now saved including grid settings
+-t option for launching a test app
+fix to scatter colors
+
+------
+0.7.1
+------
+
+Updated code for python 2.7 compatibility
+Plot labels now in separate annotation tab
+Added color by column value for scatter plots
+Can now only save as messagepack, other formats are under export
+
+------
+0.7.0
+------
+
+Added fill data functions for columns
+Updates to 3D plotting allow working contour, wireframe and surface plots
+Added contour and imshow plots
+Can now display plot options vertically
+IPython console plugin
+Combining multiple separate plots now possible
+
+------
+0.6.0
+------
+
+Implemented plugin system with sample seaborn plugin
+Meta data now saved with project files - allows saving plots and selections
+Can add a table to plot using sub-table contents
+Changed function evaluation so that math functions work
+Column-wise functions can be applied
+Added ability to show error bars in plots
+Various fixes for table selections
+Integrated table copy and paste into toolbars
+Added melt function for converting to long form data
+
+------
+0.5.0
+------
+
+Model fitting interface using statsmodels
+Added ability to create/edit categorical columns
+Clean data options added
+Dialog to apply row-wise functions added to column menu
+String operations added to column menu
+Correlation matrix calculator
+Re-did aggregate dialog
+Row index header to show index names
+Display column multiiindexes
+Cell text now fits columns properly for all sizes
+Convenient copy and paste table menu items for DataExplore
+Added minimal unit tests
+
+------
+0.4.2
+------
+
+Added plot save dpi entry
+Fixed missing data files for setuptools install
+Updated scatter to allow multiple subplots
+
+------
+0.4.1
+------
+
+Improved datasets
+Fix to update group comboboxes
+Added batch file renaming tool
+
+------
+0.4.0
+------
+
+Can now display and set row multiindexes
+Added function evaluation tool
+Grouped plots now work
+Can now sort by multiple columns
+Can set column dtype
+Show table as formatted text
+Fixed copy to clipboard
+Fix to import dialog error
+improvements to pivot,aggregate dialogs
+
+------
+0.3.1
+------
+
+Fixed relative imports
+
+------
+0.3.0
+------
+
+Added ability to create sub/child table
+Merge and concat with sub tables
+Removed row/col buttons from toolbar to prevent clutter
+Added filtering using string queries; pandas query()
+Rendering and handling of empty tables
+Can now hide plot viewer in dataexplore app
+
+------
+0.2.0
+------
+
+Added dataframe index display in row header
+Ability to reset index
+Added hexbin plot
+Added iris.data for tests
+Fixes for subplots layout
+Improved histogram plots
+Aggregate, pivot tools added
+freeze script for windows binary
+
+------
+0.0.1
+------
+
+Ported old tkintertable code to Python3
+Removed old extraneous TableModel code
+Added PlotFrame class
+Re-did table viewer application
+No longer using Pmw widgets

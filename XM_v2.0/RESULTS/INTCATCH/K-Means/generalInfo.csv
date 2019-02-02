@@ -1,0 +1,37 @@
+Parameter,Values
+Dataset Path,/home/francesco/Tirocinio/XM_v1.3.5/DATASETS/Test6/ALL_h_std_interestingVars.csv
+Results Path,/home/francesco/Tirocinio/XM_v1.3.5/RESULTS/INTCATCH/K-Means
+Number of columns,27
+Number of rows,20181
+Method,K-Means
+N. Cluster,20
+Accuracy,NA
+CE,NA
+F1,NA
+Entropy,NA
+Purity,NA
+NbClusterFound,20
+Note,-
+Variables,speed,voltage,m0_current,m1_current,acceleration,mean_speed,mean_acceleration,mean_m0,mean_m1,mean_volt,std_ec,std_do,std_temp,std_speed,std_acceleration,std_m0,std_m1,std_heading,std_volt,speed_d,ec_d,do_d,voltage_d,m0_current_d,m1_current_d,heading_d,acceleration_d
+SSE,2.52e+05
+Silhouette total,0.164041534129
+0.153,1037,27
+-0.065,938,27
+0.327,7045,27
+0.009,502,27
+0.044,1020,27
+0.070,1854,27
+0.249,2325,27
+0.010,377,27
+-0.031,516,27
+0.520,33,27
+-0.023,442,27
+0.473,30,27
+0.101,417,27
+-0.088,406,27
+0.138,404,27
+0.194,116,27
+-0.008,1150,27
+0.041,729,27
+0.066,293,27
+0.029,547,27

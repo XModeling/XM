@@ -1,0 +1,1816 @@
+====== Execution of SubCMedians version 1.1.0 (single threaded version) ======
+====== Parameters ======
+
+Random seed: 0
+Maximal model size SDmax=3
+Sample size N=10
+Number of iterations NbIter=10
+====== Creating Subspace Clustering Model ======
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono nella funzione dell'inserimento
+Sono nell'else - sto facendo il load del primo sottoinsieme (N punti non ancora raggiunti)
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.294596
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.643749
+0 1 0.513053 || 1 1 -0.507163 || 2 1 1.623532 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.226985
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.059372
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.352858
+0 1 0.539202 || 1 1 -0.396432 || 2 1 0.417224 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.689703
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.128409
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.797476
+0 1 -0.556509 || 1 1 -0.529345 || 2 1 -0.711622 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.840493
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.495640
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 15.529282
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 7
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.294596
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.643749
+0 1 0.513053 || 1 1 -0.507163 || 2 1 1.623532 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.226985
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.059372
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.352858
+0 1 0.539202 || 1 1 -0.396432 || 2 1 0.417224 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.689703
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.128409
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.422940
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.840493
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: -1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.495640
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 16.154746
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 16.154746
+ID punto da cui prendere la dimensione: 6
+Local change
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 1, oldP: 0.000000, newP: -0.312115, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 0
+USEFULPOINTS:
+----------POINTS LIST------------0
+*****************************************************
+
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 16.154746
+localD <= minD 
+UPDATED BEST CHANGES
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 1, oldP: 0.000000, newP: -0.312115, weightDelta 1
+--------------------------
+******************
+Revert changes
+A DISPERSION: 16.154746
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Applico ad a_G_ il cambiamento
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 1
+USEFULPOINTS:
+0 1 |
+----------POINTS LIST------------1
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+*****************************************************
+
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.606711
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.955864
+0 1 0.513053 || 1 1 -0.507163 || 2 1 1.623532 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.539100
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.747257
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.664973
+0 1 0.539202 || 1 1 -0.396432 || 2 1 0.417224 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.001818
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 16.154746
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 1
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.606711
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.071102
+0 1 0.054477 || 1 1 0.646479 || 2 1 0.370147 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.539100
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.747257
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.664973
+0 1 0.539202 || 1 1 -0.396432 || 2 1 0.417224 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.001818
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 14.582099
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.606711
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.383217
+0 1 0.054477 || 1 1 0.646479 || 2 1 0.370147 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.539100
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.747257
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.664973
+0 1 0.539202 || 1 1 -0.396432 || 2 1 0.417224 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.001818
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 14.582099
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 4
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.606711
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.383217
+0 1 0.054477 || 1 1 0.646479 || 2 1 0.370147 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.539100
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.747257
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.429222
+0 1 -0.181974 || 1 1 -0.026032 || 2 1 -0.221216 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.001818
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 13.294514
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.606711
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.383217
+0 1 0.054477 || 1 1 0.646479 || 2 1 0.370147 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.539100
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.747257
+0 1 -0.353055 || 1 1 -0.351608 || 2 1 -0.354708 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.377388
+0 1 -0.181974 || 1 1 -0.026032 || 2 1 -0.221216 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.001818
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 13.294514
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 3
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.606711
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.383217
+0 1 0.054477 || 1 1 0.646479 || 2 1 0.370147 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.539100
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.427230
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.377388
+0 1 -0.181974 || 1 1 -0.026032 || 2 1 -0.221216 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.001818
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 15.286602
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 15.286602
+ID punto da cui prendere la dimensione: 2
+Local change
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 0, oldP: 0.000000, newP: 0.122055, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 1
+USEFULPOINTS:
+0 1 |
+----------POINTS LIST------------1
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+*****************************************************
+
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 13.250910
+localD <= minD 
+UPDATED BEST CHANGES
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 0, oldP: 0.000000, newP: 0.122055, weightDelta 1
+--------------------------
+******************
+Revert changes
+A DISPERSION: 15.286602
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Applico ad a_G_ il cambiamento
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 2
+USEFULPOINTS:
+0 0 |1 1 |
+----------POINTS LIST------------2
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.122055 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+*****************************************************
+
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.172541
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.084203
+0 1 0.054477 || 1 1 0.646479 || 2 1 0.370147 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.104930
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.305175
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.377388
+0 1 -0.181974 || 1 1 -0.026032 || 2 1 -0.221216 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.567649
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 13.250910
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 1
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.172541
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.816028
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.104930
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.305175
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.377388
+0 1 -0.181974 || 1 1 -0.026032 || 2 1 -0.221216 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.567649
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 14.860679
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 14.860679
+ID punto da cui prendere la dimensione: 9
+Local change
+******************
+----------CHANGE----------
+dimChanged: 1, pointID: 0, oldP: 0.000000, newP: -0.619444, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 2
+USEFULPOINTS:
+0 0 |1 1 |
+----------POINTS LIST------------2
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.122055 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+*****************************************************
+
+Sto provando a fare un cambiamento
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 15.058176
+Revert changes
+A DISPERSION: 14.860679
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Applico ad a_G_ il cambiamento
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 2
+USEFULPOINTS:
+0 0 |1 1 |
+----------POINTS LIST------------2
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.122055 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+*****************************************************
+
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.172541
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.693973
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.104930
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.305175
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.377388
+0 1 -0.181974 || 1 1 -0.026032 || 2 1 -0.221216 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.567649
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 14.860679
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 4
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.172541
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.693973
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.104930
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.305175
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.756767
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.567649
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 16.118003
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 16.118003
+ID punto da cui prendere la dimensione: 5
+Local change
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 2, oldP: 0.000000, newP: 0.667170, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 2
+USEFULPOINTS:
+0 0 |1 1 |
+----------POINTS LIST------------2
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.122055 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+*****************************************************
+
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 13.883619
+localD <= minD 
+UPDATED BEST CHANGES
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 2, oldP: 0.000000, newP: 0.667170, weightDelta 1
+--------------------------
+******************
+Revert changes
+A DISPERSION: 16.118003
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Applico ad a_G_ il cambiamento
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 0 |1 1 |2 2 |
+----------POINTS LIST------------3
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.122055 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.627425
+0 1 0.979056 || 1 1 0.541582 || 2 1 0.773957 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.104930
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.445539
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 13.883619
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 0
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 3.772835
+0 1 -2.972257 || 1 1 0.689064 || 2 1 -0.111514 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.104930
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.445539
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.816294
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.110825
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.528378
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.183526
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 15.716914
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 15.716914
+w ha raggiunto SDmax
+ID punto da cui prendere la dimensione: 7
+Local change
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 0, oldP: 0.122055, newP: 0.000000, weightDelta -1
+--------------------------
+----------CHANGE----------
+dimChanged: 1, pointID: 1, oldP: 0.000000, newP: 0.661087, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 0 |1 1 |2 2 |
+----------POINTS LIST------------3
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.122055 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Secondo if di cambiamento - il peso del punto del cambiamento è 0
+Sto provando a fare un cambiamento
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 14.828909
+localD <= minD 
+UPDATED BEST CHANGES
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 0, oldP: 0.122055, newP: 0.000000, weightDelta -1
+--------------------------
+----------CHANGE----------
+dimChanged: 1, pointID: 1, oldP: 0.000000, newP: 0.661087, weightDelta 1
+--------------------------
+******************
+Revert changes
+A DISPERSION: 15.716914
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Secondo if di cambiamento - il peso del punto del cambiamento è 0
+Sto provando a fare un cambiamento
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Applico ad a_G_ il cambiamento
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Secondo if di cambiamento - il peso del punto del cambiamento è 0
+Sto provando a fare un cambiamento
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 1 |1 2 |
+----------POINTS LIST------------2
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 2, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 1 1 0.661087 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.799633
+0 1 -2.972257 || 1 1 0.689064 || 2 1 -0.111514 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.878012
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.445539
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.155207
+0 1 -0.312115 || 1 1 0.785180 || 2 1 -0.031115 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.449738
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.189465
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.844613
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 14.828909
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 6
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.799633
+0 1 -2.972257 || 1 1 0.689064 || 2 1 -0.111514 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.878012
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.445539
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.580243
+0 1 -0.914856 || 1 1 0.905548 || 2 1 0.759840 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.449738
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.189465
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.844613
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 16.280743
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 16.280743
+w ha raggiunto SDmax
+ID punto da cui prendere la dimensione: 1
+Local change
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 1, oldP: -0.312115, newP: 0.000000, weightDelta -1
+--------------------------
+----------CHANGE----------
+dimChanged: 1, pointID: 0, oldP: 0.000000, newP: -0.468154, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 1 |1 2 |
+----------POINTS LIST------------2
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 2, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 -0.312115 || 1 1 0.661087 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 15.480550
+localD <= minD 
+UPDATED BEST CHANGES
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 1, oldP: -0.312115, newP: 0.000000, weightDelta -1
+--------------------------
+----------CHANGE----------
+dimChanged: 1, pointID: 0, oldP: 0.000000, newP: -0.468154, weightDelta 1
+--------------------------
+******************
+Revert changes
+A DISPERSION: 16.280743
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Applico ad a_G_ il cambiamento
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Sto provando a fare un cambiamento
+Terzo if di cambiamento - il peso del punto cambiato meno il deltaPeso è 0
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 0 |1 1 |2 2 |
+----------POINTS LIST------------3
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+1 1 -0.468154 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+1 1 0.661087 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 3.111748
+0 1 -2.972257 || 1 1 0.689064 || 2 1 -0.111514 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.565897
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.288613
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.919156
+0 1 -0.914856 || 1 1 0.905548 || 2 1 0.759840 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.761852
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.739094
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.027487
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 15.480550
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 0
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.522320
+0 1 0.303039 || 1 1 -0.350377 || 2 1 -1.868904 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.565897
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.288613
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.919156
+0 1 -0.914856 || 1 1 0.905548 || 2 1 0.759840 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.761852
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.739094
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.027487
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 14.658522
+Sono in training
+Array D appena in training
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.289720
+0 1 0.303039 || 1 1 -0.350377 || 2 1 -1.868904 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.148857
+0 1 0.745290 || 1 1 -0.468154 || 2 1 1.602584 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.565897
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.288613
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.919156
+0 1 -0.914856 || 1 1 0.905548 || 2 1 0.759840 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.761852
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.739094
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.027487
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion vecchia: 14.658522
+Sono nella funzione dell'inserimento
+Sono nell'if - sto sostituendo un punto del sottoinsieme (già con N punti)
+Index to erase: 1
+Array dei punti dopo inserzione (?)
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 10, weight: 0
+USEFULPOINTS:
+0 0 |1 1 |2 2 |3 3 |4 4 |5 5 |6 6 |7 7 |8 8 |9 9 |
+----------POINTS LIST------------10
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 2.289720
+0 1 0.303039 || 1 1 -0.350377 || 2 1 -1.868904 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 3.027735
+0 1 0.366371 || 1 1 -0.918517 || 2 1 1.742848 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.565897
+0 1 0.122055 || 1 1 0.700473 || 2 1 -0.404457 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.895312
+0 1 0.599544 || 1 1 -0.611160 || 2 1 -1.216526 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.288613
+0 1 0.489199 || 1 1 -0.628947 || 2 1 -0.638620 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 2, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.022533
+0 1 0.667170 || 1 1 0.386397 || 2 1 0.636136 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.919156
+0 1 -0.914856 || 1 1 0.905548 || 2 1 0.759840 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 1, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.761852
+0 1 -0.806865 || 1 1 0.661087 || 2 1 0.954987 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.739094
+0 1 -0.480019 || 1 1 -0.284776 || 2 1 0.075697 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 3, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 1.027487
+0 1 -0.451300 || 1 1 -0.619444 || 2 1 0.424896 || 
+-----------------------------------------------------
+*****************************************************
+
+Dispersion nuova: 15.069246
+Sto provando a migliorare con OneNeighbor (?)
+Sono nella funzione di update g using d
+a_mu: 1
+NbGenerations: 0
+MIN DISPERSION: 15.069246
+w ha raggiunto SDmax
+ID punto da cui prendere la dimensione: 0
+Local change
+******************
+----------CHANGE----------
+dimChanged: 0, pointID: 2, oldP: 0.667170, newP: 0.000000, weightDelta -1
+--------------------------
+----------CHANGE----------
+dimChanged: 0, pointID: 1, oldP: 0.000000, newP: 0.303039, weightDelta 1
+--------------------------
+******************
+Prima di local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 0 |1 1 |2 2 |
+----------POINTS LIST------------3
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+1 1 -0.468154 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+1 1 0.661087 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+Sto provando a fare un cambiamento
+Primo if di cambiamento - il peso della dimensione cambiata è diventato 0
+Secondo if di cambiamento - il peso del punto del cambiamento è 0
+Sto provando a fare un cambiamento
+Quarto if di cambiamento - il peso della dimensione cambiata meno deltaPeso è 0
+LOCAL DISPERSION: 16.050442
+Revert changes
+A DISPERSION: 15.069246
+C'è stato un miglioramento (?)
+Applico ad a_G il cambiamento
+Applico ad a_G_ il cambiamento
+Dopo local change
+
+*****************************************************
+––––––PRINTING CARRAYSubCMediansPOINT–––––
+MaxSize: 3, weight: 3
+USEFULPOINTS:
+0 0 |1 1 |2 2 |
+----------POINTS LIST------------3
+-----------------------------------------------------
+printing point: 0, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+1 1 -0.468154 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 1, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+1 1 0.661087 || 
+-----------------------------------------------------
+-----------------------------------------------------
+printing point: 2, groupID: 0, classID: 0, weight: 1, maxNbDims: 3
+nbPointsInCluster : 0, dispersionToGroup: 0.000000
+0 1 0.667170 || 
+-----------------------------------------------------
+*****************************************************
+
+
