@@ -36,6 +36,7 @@ import tkinter.ttk
 import tkinter
 from tkinter import filedialog
 import matplotlib
+matplotlib.use('TkAgg')
 import Grafici as graph
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 #from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg, NavigationToolbar2QT
@@ -52,7 +53,7 @@ import os
 import matplotlib.pylab as pl
 import matplotlib.patches as mpatches
 import colorsys
-matplotlib.use('TkAgg')
+
 #import matplotlib.pyplot as plt
 #from HSF import HorizontalScrolledFrame as HSF
 
@@ -1944,6 +1945,8 @@ def continueO(finestra, contW, cont):
     finestra.update()
     
 def continueC(finestra, contW, cont):
+    messagebox.showwarning("Warning", "This version in python3 doesn't support generation yet")
+    return
     if platform.system() != 'Linux':
         return
     for item in contW.grid_slaves():
