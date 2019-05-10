@@ -1,0 +1,22 @@
+Parameter,Values
+Dataset Path,/home/francesco/Tirocinio/XM_v2.1/DATASETS/xm_test_dataset.csv
+Results Path,/home/francesco/Tirocinio/XM_v2.1/RESULTS/XM_TEST_RESULTS//K-Means
+Number of columns,11
+Number of rows,301
+Method,K-Means
+N. Cluster,5
+Accuracy,NA
+CE,NA
+F1,NA
+Entropy,NA
+Purity,NA
+NbClusterFound,5
+Note,-
+Variables,speed,voltage,m0_current,m1_current,acceleration,mean_speed,mean_acceleration,mean_m0,mean_m1,mean_volt,std_ec
+SSE,1.46e+03
+Silhouette total,0.386773776517
+0.267,12,11
+0.457,101,11
+0.444,105,11
+0.595,9,11
+0.203,74,11

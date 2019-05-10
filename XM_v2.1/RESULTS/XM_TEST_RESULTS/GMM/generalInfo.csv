@@ -1,0 +1,23 @@
+Parameter,Values
+Dataset Path,/home/francesco/Tirocinio/XM_v2.1/DATASETS/xm_test_dataset.csv
+Results Path,/home/francesco/Tirocinio/XM_v2.1/RESULTS/XM_TEST_RESULTS//GMM
+Number of columns,11
+Number of rows,301
+Method,GMM
+N. Cluster,5
+Covariance,full
+Accuracy,NA
+CE,NA
+F1,NA
+Entropy,NA
+Purity,NA
+NbClusterFound,5
+Note,-
+Variables,speed,voltage,m0_current,m1_current,acceleration,mean_speed,mean_acceleration,mean_m0,mean_m1,mean_volt,std_ec
+Log-likelihood,6.82842804721
+Silhouette total,0.117600785117
+0.132,16,11
+0.147,27,11
+-0.062,121,11
+0.503,85,11
+-0.114,52,11
