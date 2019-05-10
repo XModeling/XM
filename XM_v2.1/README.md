@@ -53,6 +53,8 @@ List of XM code files contained in XM_v2.1:
 AUTHORS
 
 Alberto Castellini, Department of Computer Science, University of Verona, Italy, email: alberto.castellini@univr.it
+
 Alessandro Farinelli, Department of Computer Science, University of Verona, Italy, email: alessandro.farinelli@univr.it
+
 Francesco Masillo (main developer), University of Verona, Italy, email: francesco.masillo@studenti.univr.it
 
