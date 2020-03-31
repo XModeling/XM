@@ -35,6 +35,6 @@ Alberto Castellini, Department of Computer Science, University of Verona, Italy,
 
 Alessandro Farinelli, Department of Computer Science, University of Verona, Italy, email: alessandro.farinelli@univr.it
 
-Federico Bianchi (main developer), Department of Computer Science, University of Verona, Italy, email: federico.bianchi@univr.it
+Federico Bianchi, Department of Computer Science, University of Verona, Italy, email: federico.bianchi@univr.it
 
-Francesco Masillo (main developer), University of Verona, Italy, email: francesco.masillo@studenti.univr.it
+Francesco Masillo, University of Verona, Italy, email: francesco.masillo@studenti.univr.it
