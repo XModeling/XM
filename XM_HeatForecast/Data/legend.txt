@@ -1,0 +1,23 @@
+Legend:
+
+
+t = Temperature
+rh = Relative humidity
+ws = Wind speed
+wd = Wind direction
+r = Rainfall
+h = Holidays
+l1 = past load (24h)
+l2 = past load (48h)
+l3 = past load (72h)
+l4 = past load (96h)
+l5 = past load (120h)
+l6 = past load (144h)
+l7 = past load (168h)
+lp = load peak of previous day
+t2 = Square of Temperature
+tmv = Moving average of Temperature on the previous 7 days
+tm = Maximum Temperature
+tm2 = Square of Maximum Temperature
+tmy = Maximum Temperature of the previous day
+tmy2 = Square of Maximum Temperature of the previous day
