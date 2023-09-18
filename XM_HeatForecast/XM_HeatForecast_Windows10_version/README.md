@@ -29,6 +29,8 @@ List of code files:
 	- gui_support.py: contains functions that support GUI;
 	- install.sh: a script to install the required libraries.
 
+Please cite the following paper if you use the code:  Alberto Castellini, Federico Bianchi & Alessandro Farinelli. Generation and interpretation of parsimonious predictive models for load forecasting in smart heating networks. Applied Intelligence volume 52, pages 9621–9637 (2022). 
+
 AUTHORS
 
 Alberto Castellini, Department of Computer Science, University of Verona, Italy, email: alberto.castellini@univr.it
